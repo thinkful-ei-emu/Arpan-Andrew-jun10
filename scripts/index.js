@@ -6,7 +6,7 @@
 function main() {
   shoppingList.bindEventListeners();
   shoppingList.render();
-};
+}
 
 
 $(main);
