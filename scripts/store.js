@@ -16,6 +16,6 @@ const store = (function() {
     hideCheckedItems,
     searchTerm
   };
-});
+}());
 
 console.log(store);
